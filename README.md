@@ -1,4 +1,8 @@
-# This Repository contains all the compilations of projects I did while learning React.js and React Native.
+## This Repository Contains All The Tasks/Projects Done While Learning React.js and React native.
+
 - [0x00-Webpack:](https://github.com/Beinglegendary/alx-react/tree/main/0x00-Webpack)
-### Webpacks: Webpack is a JavaScript module bundler. It takes modules with dependencies and generates static assets representing those modules. It allows you to use require() in the browser, and it also provides a way to use other file types besides JavaScript, such as CSS and images. Webpack is commonly used in modern JavaScript development to bundle various assets together and optimize their delivery to the browser.
+- [0x01-React-Intro:](https://github.com/Beinglegendary/alx-react/tree/main/0x01-react_intro)
+- [0x02-React-props:](https://github.com/Beinglegendary/alx-react/tree/main/0x02-react_props)
+- [0x03-React-components:](https://github.com/Beinglegendary/alx-react/tree/main/0x03-React_component)
+- [0x03-React_inline_styling:](https://github.com/Beinglegendary/alx-react/tree/main/0x04-React_inline_styling)
 
